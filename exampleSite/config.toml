@@ -79,7 +79,7 @@ link = "https://scholar.google.com/citations?user=ULCkfdQAAAAJ"
 title = "google"
 [[params.social]]
 icon = "ti-twitter-alt"
-link = "#"
+link = "https://twitter.com/derguene"
 title = "twitter"
 [[params.social]]
 icon = "ti-instagram"
