@@ -82,12 +82,8 @@ icon = "ti-twitter-alt"
 link = "https://twitter.com/derguene"
 title = "twitter"
 [[params.social]]
-icon = "ti-instagram"
-link = "#"
-title = "instagram"
-[[params.social]]
 icon = "ti-github"
-link = "#"
+link = "https://github.com/DerXter/"
 title = "github"
 [[params.social]]
 icon = "ti-linkedin"
