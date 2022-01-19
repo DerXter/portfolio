@@ -48,7 +48,7 @@ name = "contact"
 weight = 7
 [params]
 author = "Themefisher"
-description = "This is meta description"
+description = "Welcome to my Meta World!"
 google_analitycs_id = ""
 logo = "images/logo.png"
 particles = true
