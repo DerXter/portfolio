@@ -3,7 +3,7 @@ disableLanguages = []
 paginate = "4"
 summaryLength = "10"
 theme = "gofolium"
-title = "GoFolium | Hugo Publication Template"
+title = "Derguene | Personal Website"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
@@ -74,9 +74,9 @@ link = "plugins/reading-time/readingTime.min.js"
 enable = true
 preloader = ""
 [[params.social]]
-icon = "ti-facebook"
-link = "#"
-title = "facebook"
+icon = "ti-google"
+link = "https://scholar.google.com/citations?user=ULCkfdQAAAAJ"
+title = "google"
 [[params.social]]
 icon = "ti-twitter-alt"
 link = "#"
