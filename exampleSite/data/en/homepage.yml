@@ -1,6 +1,6 @@
 ---
 banner:
-  enable: true
+  enable: false
   title: Hey, I’m Derguene **!**
   subtitle: An NLP Research Engineer
   social: true
