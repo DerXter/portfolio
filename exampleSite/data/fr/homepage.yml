@@ -1,121 +1,77 @@
-######################### Banner ###########################
+---
 banner:
-  enable : true
-  title :  "Salut, je suis Maclarn **!**"
-  subtitle : "Un Data Scientist & Product Enthusiast"
-  social : true
-  # social icons comes from `config.toml` file.
-
-
-####################### About ##############################
+  enable: true
+  title: Salut, je suis Maclarn **!**
+  subtitle: Un Data Scientist & Product Enthusiast
+  social: true
 about:
-  enable : true
-  title : ""
-  image : "images/author.jpg"
-  content : "College graduate with a strong computer science background and experience in exploratory data analysis, machine learning, and statistics. As a Passionate about learning new topics in data science, visualizing data, and doing research. I am like sharing valuable insights and making an impact that helps others learn through.
-  
-
-  code, visualizations, and narratives. Frequent competitor at Kaggle competitions. I'm always open for discussions, so feel free to ask any questions or concerns, I will.
-  "
-
-
-
-####################### Education ###########################
+  enable: true
+  title: Doctorant en Informatique
+  image: images/author.jpg
+  content: "Je suis doctorant en 2éme année de thèse à l'ESP de l'Université Cheikh
+    Anta Diop de Dakar sous la supervision de M. Diallo. Je suis récipiendaire du
+    Google PhD Fellowship 2021 dans la section Natural Language Processing et je poursuis
+    mes travaux avec mon mentor Clara Riveira Program Manager à Google.\n\nMes travaux
+    de recherches tournent autour des systèmes de dialogues orientés tâches pour les
+    langues à faibles ressources. Je cible le Wolof comme cas d'étude mais je m'intéresse
+    plus généralement aux langues africaines de façon générale d'où mon intégration
+    à Masakhane. Je suis co-fondateur de la communauté GalsenAI et j'aime rencontrer
+    de nouvelles personnes, échanger, partager et découvrir de nouvelles expériences.\n\nPour
+    toutes questions, n'hésitez pas à me contacter sur Twitter \U0001F609 "
 education:
-  enable : true
-  title : "Éducation"
+  enable: true
+  title: Éducation
   education_item:
-    # education item loop
-    - name : "MSc in Research Methodology"
-      duration : "September 2000 - May 2004"
-      academy : "University Of California"
-
-    # education item loop
-    - name : "BEng Electronic Engineering"
-      duration : "September 2000 - May 2004"
-      academy : "University Of California"
-
-    # education item loop
-    - name : "BEng Electronic Engineering"
-      duration : "September 2000 - May 2004"
-      academy : "University Of California"
-
-    # education item loop
-    - name : "MSc in Research Methodology"
-      duration : "September 2000 - May 2004"
-      academy : "University Of California"
-
-
-
-
-####################### Expertise ###########################
+  - name: MSc in Research Methodology
+    duration: September 2000 - May 2004
+    academy: University Of California
+  - name: BEng Electronic Engineering
+    duration: September 2000 - May 2004
+    academy: University Of California
+  - name: BEng Electronic Engineering
+    duration: September 2000 - May 2004
+    academy: University Of California
+  - name: MSc in Research Methodology
+    duration: September 2000 - May 2004
+    academy: University Of California
 expertise:
-  enable : true
-  title : "Compétence"
+  enable: true
+  title: Compétence
   expertise_item:
-    # expertise item loop
-    - name : "Data Analysis and Visualization"
-      content : "Analysis Libraries: pandas, numpy <br> Visualizations: Tablaeu, Seaborn"
-
-    # expertise item loop
-    - name : "Statical Meathod Learning"
-      content : "Analysis Libraries: pandas, numpy <br> Visualizations: Tablaeu, Seaborn"
-
-
-####################### Publication ###########################
+  - name: Data Analysis and Visualization
+    content: 'Analysis Libraries: pandas, numpy <br> Visualizations: Tablaeu, Seaborn'
+  - name: Statical Meathod Learning
+    content: 'Analysis Libraries: pandas, numpy <br> Visualizations: Tablaeu, Seaborn'
 publication:
-  enable : true
-  title : "Les publications"
-  # publication item comes from `content/**/publications/` folder.
-
-
-########################### Talk ##############################
+  enable: true
+  title: Les publications
 talk:
-  enable : true
-  title : "Pourparlers récents et à venir"
-  # talk item comes from `content/**/talks/` folder.
-
-
-########################## Projects ###########################
+  enable: true
+  title: Pourparlers récents et à venir
 project:
-  enable : true
-  title : "Mes projets"
-  # projects item comes from `content/**/projects/` folder.
-
-
-########################### Blog ##############################
+  enable: true
+  title: Mes projets
 blog:
-  enable : true
-  title : "Article de blog"
-  # blog item comes from `content/**/blogs/` folder.
-
-
-
-########################## Contact ############################
-# contact foem
+  enable: true
+  title: Article de blog
 contact_form:
-  enable : true
-  title : "Contactez moi"
-  contact_form_action : "#" #contact form works with https://formspree.io
-  name_label : "Your Name"
-  email_label : "Your Email"
-  textarea_label : "Your Message"
-  button_label : "Send Now"
-
-# contact info
+  enable: true
+  title: Contactez moi
+  contact_form_action: "#"
+  name_label: Your Name
+  email_label: Your Email
+  textarea_label: Your Message
+  button_label: Send Now
 contact_info:
-  enable : true
-  title : "Entrer en contact"
-  content : "Let’s talk about your project and how I can help you or if you just want to chat about design and art - shoot me a message at abcxmple@gmail.com"
+  enable: true
+  title: Entrer en contact
+  content: Let’s talk about your project and how I can help you or if you just want
+    to chat about design and art - shoot me a message at abcxmple@gmail.com
   contact_item:
-    # contact item loop
-    - icon : "ti-email" # themify icon : https://themify.me/themify-icons
-      id : "s.vanbuuren@uu.nl"
-
-    # contact item loop
-    - icon : "ti-mobile" # themify icon : https://themify.me/themify-icons
-      id : "+8801856388817"
-
-    # contact item loop
-    - icon : "ti-location-pin" # themify icon : https://themify.me/themify-icons
-      id : "Sjoerd Groenmangebouw C1.19, Padualaan 14,3584 CH Utrecht, The Netherlands; TNO Child The Netherlands"
+  - icon: ti-email
+    id: s.vanbuuren@uu.nl
+  - icon: ti-mobile
+    id: "+8801856388817"
+  - icon: ti-location-pin
+    id: Sjoerd Groenmangebouw C1.19, Padualaan 14,3584 CH Utrecht, The Netherlands;
+      TNO Child The Netherlands
