@@ -8,16 +8,20 @@ about:
   enable: true
   title: Doctorant en Informatique
   image: images/author.jpg
-  content: "Je suis doctorant en 2éme année de thèse à l'ESP de l'Université Cheikh
-    Anta Diop de Dakar sous la supervision de M. Diallo. Je suis récipiendaire du
-    Google PhD Fellowship 2021 dans la section Natural Language Processing et je poursuis
-    mes travaux avec mon mentor Clara Riveira Program Manager à Google.\n\nMes travaux
-    de recherches tournent autour des systèmes de dialogues orientés tâches pour les
-    langues à faibles ressources. Je cible le Wolof comme cas d'étude mais je m'intéresse
-    plus généralement aux langues africaines de façon générale d'où mon intégration
-    à Masakhane. Je suis co-fondateur de la communauté GalsenAI et j'aime rencontrer
-    de nouvelles personnes, échanger, partager et découvrir de nouvelles expériences.\n\nPour
-    toutes questions, n'hésitez pas à me contacter sur Twitter \U0001F609 "
+  content: "Je suis doctorant en 2éme année de thèse à l'[**ESP**](https://esp.sn/)
+    de l'[**Université Cheikh Anta Diop de Dakar**](https://www.ucad.sn/) sous la
+    supervision de [**M. Diallo**](http://edmi.ucad.sn/~moussadiallo/). Je suis récipiendaire
+    du [**Google Ph.D. Fellowship 2021**](https://research.google/outreach/phd-fellowship/recipients/)
+    dans la section Natural Language Processing et je poursuis mes travaux avec mon
+    mentor **Clara Riveira** Program Manager à Google.\n\nMes travaux de recherches
+    tournent autour des Systèmes de Dialogues Orientés Tâches pour les Langues à Faibles
+    Ressources. Je cible le [**Wolof**](https://fr.wikipedia.org/wiki/Wolof_(langue))
+    comme cas d'étude mais je m'intéresse plus généralement aux Langues Africaines
+    de façon générale d'où mon intégration à [**Masakhane**](https://www.masakhane.io/).
+    Je suis co-fondateur de la communauté [**GalsenAI**](https://galsen.ai/) et j'aime
+    rencontrer de nouvelles personnes, échanger, partager et découvrir de nouvelles
+    expériences.\n\nPour toutes questions, n'hésitez pas à me contacter sur [**Twitter**](https://twitter.com/derguene)
+    \U0001F609 "
 education:
   enable: true
   title: Éducation
