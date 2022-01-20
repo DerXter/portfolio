@@ -7,7 +7,7 @@ banner:
 about:
   enable: true
   title: Doctorant en Informatique
-  image: images/author.jpg
+  image: images/profile-pic.png
   content: "Je suis doctorant en 2éme année de thèse à l'[**ESP**](https://esp.sn/)
     de l'[**Université Cheikh Anta Diop de Dakar**](https://www.ucad.sn/) sous la
     supervision de [**M. Diallo**](http://edmi.ucad.sn/~moussadiallo/). Je suis récipiendaire
@@ -19,8 +19,8 @@ about:
     comme cas d'étude mais je m'intéresse plus généralement aux Langues Africaines
     de façon générale d'où mon intégration à [**Masakhane**](https://www.masakhane.io/).
     Je suis co-fondateur de la communauté [**GalsenAI**](https://galsen.ai/) et j'aime
-    rencontrer de nouvelles personnes, échanger, partager et découvrir de nouvelles
-    expériences.\n\nPour toutes questions, n'hésitez pas à me contacter sur [**Twitter**](https://twitter.com/derguene)
+    rencontrer de nouvelles personnes, partager et découvrir de nouvelles expériences.\n\nPour
+    toutes questions, n'hésitez pas à me contacter sur [**Twitter**](https://twitter.com/derguene)
     \U0001F609 "
 education:
   enable: true
