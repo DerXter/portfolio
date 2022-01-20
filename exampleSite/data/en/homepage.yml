@@ -8,13 +8,16 @@ about:
   enable: true
   title: CS P.h.D Student
   image: images/profile-pic.png
-  content: "College graduate with a strong computer science background and experience
-    in exploratory data analysis, machine learning, and statistics. As a Passionate
-    about learning new topics in data science, visualizing data, and doing research.
-    I am like sharing valuable insights and making an impact that helps others learn
-    through.\n\ncode, visualizations, and narratives. Frequent competitor at Kaggle
-    competitions. I'm always open for discussions, so feel free to ask any questions
-    or concerns, I will. "
+  content: "I am a 2nd year Ph.D. student at [ESP](https://esp.sn/) of Cheikh Anta
+    Diop University in Dakar under the supervision of Mr. Diallo. I am a recipient
+    of the Google Ph.D. Fellowship 2021 in the Natural Language Processing section
+    and I am currently working with my mentor Clara Rivera Program Manager at Google.\n\nMy
+    research work revolves around task-oriented dialogue systems for low-resource
+    languages. I target Wolof as a case study but I am more generally interested in
+    African languages, hence my integration in Masakhane. I am a co-founder of the
+    GalsenAI community and I like to meet new people, exchange, share, and discover
+    new experiences.\n\nIf you have any questions, feel free to contact me on Twitter
+    \U0001F609"
 education:
   enable: true
   title: Education
