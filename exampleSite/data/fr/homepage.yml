@@ -1,8 +1,8 @@
 ---
 banner:
   enable: true
-  title: Salut, je suis Derguene **!**
-  subtitle: Ingénieur de Recherche en TAL
+  title: Salut, je suis Derguene**!**
+  subtitle: Ingénieur de Recherche en TAL & Initiateur de Communauté
   social: true
 about:
   enable: true
