@@ -74,13 +74,13 @@ link = "plugins/reading-time/readingTime.min.js"
 enable = true
 preloader = ""
 [[params.social]]
-icon = "ti-google"
-link = "https://scholar.google.com/citations?user=ULCkfdQAAAAJ"
-title = "google"
-[[params.social]]
 icon = "ti-linkedin"
 link = "https://www.linkedin.com/in/derguene-mbaye/"
 title = "linkedin"
+[[params.social]]
+icon = "ti-google"
+link = "https://scholar.google.com/citations?user=ULCkfdQAAAAJ"
+title = "google"
 [[params.social]]
 icon = "ti-github"
 link = "https://github.com/DerXter/"
