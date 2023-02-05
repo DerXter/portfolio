@@ -73,7 +73,7 @@ contact_info:
   title: Entrer en contact
   content: Parlez-moi de votre projet et de la manière dont je pourrais vous aider.
     ou si vous cherchez <strong>Les Meilleurs profils Data Science</strong> pour votre
-    entreprise, envoyez-moi un message à l'adresse <strong>mbayederguene[at]hotmail[dot]fr</strong>.
+    entreprise - envoyez-moi un message à l'adresse <strong>mbayederguene[at]hotmail[dot]fr</strong>.
   contact_item:
   - icon: ti-email
     id: mbayederguene[at]hotmail[dot]fr
