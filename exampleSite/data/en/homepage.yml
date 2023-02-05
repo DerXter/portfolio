@@ -69,8 +69,9 @@ contact_form:
 contact_info:
   enable: true
   title: Get In Touch
-  content: Let’s talk about your project and how I can help you or if you just want
-    to chat about design and art - shoot me a message at abcxmple@gmail.com
+  content: Tell me about your project and how I can help you. Or if you are looking
+    for <strong>the best Data Science profiles for your company</strong> - send me
+    a message at <strong>mbayederguene[at]hotmail[dot]fr</strong>.
   contact_item:
   - icon: ti-email
     id: s.vanbuuren@uu.nl
