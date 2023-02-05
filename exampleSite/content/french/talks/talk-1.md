@@ -1,6 +1,5 @@
 ---
-title: Faisons de <strong>SONATEL</strong>, une entreprise <strong>Data-Driven</strong>
-  et <strong>AI-Empowered</strong>
+title: Faisons de SONATEL, une entreprise Data-Driven et AI-Empowered
 date: 2023-01-30T15:00:00+00:00
 image: "/images/ted-innov-2-1.png"
 description: Webinaire à la SONATEL sur l'IA et les Telcos
