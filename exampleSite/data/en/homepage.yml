@@ -41,8 +41,8 @@ expertise:
   title: Expertise
   expertise_item:
   - name: Natural Language Processing
-    content: 'Analysis Libraries: Pandas, NumPy, Seaborn <br> NLP Libraries: HuggingFace,
-      OpenNMT, Rasa '
+    content: "<strong>Analysis Libraries:</strong> Pandas, NumPy, Seaborn <br> </strong>NLP
+      Libraries:</strong> HuggingFace, OpenNMT, Rasa "
   - name: Statical Meathod Learning
     content: 'Analysis Libraries: pandas, numpy <br> Visualizations: Tablaeu, Seaborn'
 publication:
