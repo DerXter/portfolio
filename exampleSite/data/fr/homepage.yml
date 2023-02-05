@@ -59,7 +59,7 @@ project:
   title: Mes projets
 blog:
   enable: true
-  title: Article de blog
+  title: Articles de blog
 contact_form:
   enable: true
   title: Contactez moi
