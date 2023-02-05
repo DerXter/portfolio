@@ -45,7 +45,7 @@ expertise:
   - name: Traitement du Langage
     content: "<strong>Librairies d'Analyse:</strong> NumPy, Pandas, Seaborn <br> <strong>Libraries
       TAL:</strong> HuggingFace, OpenNMT, FairSeq, Rasa "
-  - name: Recherche / R&D
+  - name: Recherche & Développement
     content: "<strong>Analyse Fonctionnelle</strong>,  État de l'art, Expérimentations
       <br> <strong>Gestion d'Équipe</strong>, Veille Technologique, Communication"
 publication:
