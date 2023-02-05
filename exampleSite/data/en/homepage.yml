@@ -40,8 +40,9 @@ expertise:
   enable: true
   title: Expertise
   expertise_item:
-  - name: Data Analysis and Visualization
-    content: 'Analysis Libraries: pandas, numpy <br> Visualizations: Tablaeu, Seaborn'
+  - name: Natural Language Processing
+    content: 'Analysis Libraries: Pandas, NumPy, Seaborn <br> NLP Libraries: HuggingFace,
+      OpenNMT, Rasa '
   - name: Statical Meathod Learning
     content: 'Analysis Libraries: pandas, numpy <br> Visualizations: Tablaeu, Seaborn'
 publication:
