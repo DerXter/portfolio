@@ -1,15 +1,10 @@
 ---
-title: "George Cushen"
-image: "images/author.jpg"
-email: "georgecushen@gofolium.com"
-social:
-  - icon : "ti-facebook" # themify icon pack : https://themify.me/themify-icons
-    link : "#"
-  - icon : "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
-    link : "#"
-  - icon : "ti-github" # themify icon pack : https://themify.me/themify-icons
-    link : "#"
----
+title: Derguene MBAYE
+image: "/images/photo_2021-11-20_13-59-57.jpg"
+email: mbayederguene@hotmail.fr
+social: []
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.
-Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.
+---
+Research Engineer in NLP, I work on Task-oriented Dialogue Systems for Low-Resource Languages with a focus on African languages. 
+
+I am interested in everything that revolves around **Cross-Lingual Transfer Learning**, **Multilingual {Language Models, Semantic Parsing}**, **Intent Classification** / **Named Entity Recognition** / **Slot Filling**, **Information Retrieval** among others.
