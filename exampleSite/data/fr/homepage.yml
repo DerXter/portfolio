@@ -45,8 +45,9 @@ expertise:
   - name: Traitement Automatique du Langage
     content: 'Librairies d''Analyse: Pandas, NumPy, Seaborn <br> Libraries TAL: HuggingFace,
       OpenNMT, Rasa '
-  - name: Statical Meathod Learning
-    content: 'Analysis Libraries: pandas, numpy <br> Visualizations: Tablaeu, Seaborn'
+  - name: Recherche / R&D
+    content: Analyse fonctionnelle,  État de l'art, Expérimentations <br> Gestion
+      d'Équipe, Communication, Veille Technologique
 publication:
   enable: true
   title: Les publications
