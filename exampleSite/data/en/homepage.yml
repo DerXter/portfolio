@@ -45,7 +45,7 @@ expertise:
       Libraries:</strong> HuggingFace, OpenNMT, Rasa "
   - name: Research / R&D
     content: "<strong>Functional Analysis</strong>, State of the Art, Experiments
-      <br> <strong>Team Management</strong>, Communication, Technology Watch"
+      <br> <strong>Team Management</strong>, Technology Watch, Communication"
 publication:
   enable: true
   title: Publications
