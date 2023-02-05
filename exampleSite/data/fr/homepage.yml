@@ -43,7 +43,7 @@ expertise:
   title: Compétences
   expertise_item:
   - name: Traitement du Langage
-    content: "<strong>Librairies d'Analyse:</strong> Pandas, NumPy, Seaborn <br> <strong>Libraries
+    content: "<strong>Librairies d'Analyse:</strong> NumPy, Pandas, Seaborn <br> <strong>Libraries
       TAL:</strong> HuggingFace, OpenNMT, Rasa "
   - name: Recherche / R&D
     content: "<strong>Analyse Fonctionnelle</strong>,  État de l'art, Expérimentations
