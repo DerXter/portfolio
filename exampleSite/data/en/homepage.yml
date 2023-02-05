@@ -41,7 +41,7 @@ expertise:
   title: Expertise
   expertise_item:
   - name: Natural Language Processing
-    content: "<strong>Analysis Libraries:</strong> Pandas, NumPy, Seaborn <br> </strong>NLP
+    content: "<strong>Analysis Libraries:</strong> NumPy, Pandas, Seaborn <br> </strong>NLP
       Libraries:</strong> HuggingFace, OpenNMT, Rasa "
   - name: Research / R&D
     content: "<strong>Functional Analysis</strong>, State of the Art, Experiments
