@@ -43,8 +43,9 @@ expertise:
   - name: Natural Language Processing
     content: "<strong>Analysis Libraries:</strong> Pandas, NumPy, Seaborn <br> </strong>NLP
       Libraries:</strong> HuggingFace, OpenNMT, Rasa "
-  - name: Statical Meathod Learning
-    content: 'Analysis Libraries: pandas, numpy <br> Visualizations: Tablaeu, Seaborn'
+  - name: Research / R&D
+    content: "<strong>Functional Analysis</strong>, State of the Art, Experiments
+      <br> <strong>Team Management</strong>, Communication, Technology Watch"
 publication:
   enable: true
   title: Publications
