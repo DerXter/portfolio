@@ -42,8 +42,8 @@ expertise:
   enable: true
   title: Compétence
   expertise_item:
-  - name: Natural Language Processing
-    content: 'Analysis Libraries: Pandas, NumPy, Seaborn <br> NLP Libraries: HuggingFace,
+  - name: Traitement Automatique du Langage
+    content: 'Librairies d''Analyse: Pandas, NumPy, Seaborn <br> Libraries TAL: HuggingFace,
       OpenNMT, Rasa '
   - name: Statical Meathod Learning
     content: 'Analysis Libraries: pandas, numpy <br> Visualizations: Tablaeu, Seaborn'
