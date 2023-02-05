@@ -50,7 +50,7 @@ expertise:
       <br> <strong>Gestion d'Équipe</strong>, Veille Technologique, Communication"
 publication:
   enable: true
-  title: Les publications
+  title: Publications
 talk:
   enable: true
   title: Pourparlers récents et à venir
