@@ -47,7 +47,7 @@ expertise:
       TAL:</strong> HuggingFace, OpenNMT, Rasa "
   - name: Recherche / R&D
     content: "<strong>Analyse fonctionnelle</strong>,  État de l'art, Expérimentations
-      <br> <strong>Gestion d'Équipe</strong>, Veille Technologique, Communication,"
+      <br> <strong>Gestion d'Équipe</strong>, Veille Technologique, Communication"
 publication:
   enable: true
   title: Les publications
