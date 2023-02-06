@@ -1,6 +1,6 @@
 ---
 title: Derguene MBAYE
-image: "/images/photo_2023-02-05-16-13-29.jpeg"
+image: "/images/photo_2021-11-20_13-59-57.jpg"
 email: mbayederguene@hotmail.fr
 social: []
 
