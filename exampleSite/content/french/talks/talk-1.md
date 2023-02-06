@@ -8,7 +8,7 @@ links:
   link: https://docs.google.com/presentation/d/1Tgj-T6ACTh_bmtn_-O0gThEc_41FeQEU_SO_BPa0tn4
 
 ---
-Les **TED'INNOV** sont une série de webinaires organisés en interne à la [SONATEL](https://sonatel.sn/ "SONATEL"), opérateur Sénégalais de Télécommunications, dans le but  de promouvoir l'innovation et l'usage des technologies émergentes.
+Les **TED'INNOV** sont une série de webinaires organisés en interne à la [SONATEL](https://sonatel.sn/ "SONATEL"), opérateur Sénégalais National de Télécommunications, dans le but  de promouvoir l'innovation et l'usage des technologies émergentes.
 
 C'est dans cette perspective que j'ai animé une conférence sur **L'Intelligence Artificielle (IA) et ses applications dans le monde des Télécoms** en couvrant:
 
