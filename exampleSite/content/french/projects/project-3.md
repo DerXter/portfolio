@@ -1,5 +1,5 @@
 ---
-title: Wolof Integration to Common Voice
+title: Intégration de la langue Wolof à Mozilla Common Voice
 date: 2020-03-14T15:40:24.000+06:00
 image: images/projects/project3.jpg
 description: This is meta description
