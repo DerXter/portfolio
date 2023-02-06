@@ -8,7 +8,7 @@ links:
   link: https://docs.google.com/presentation/d/1Tgj-T6ACTh_bmtn_-O0gThEc_41FeQEU_SO_BPa0tn4
 
 ---
-**TED'INNOV** is a series of webinars organized internally at [SONATEL](https://sonatel.sn/ "SONATEL"), the Senegalese Telecom Operator, with the aim of promoting innovation and the use of emerging technologies.
+**TED'INNOV** is a series of webinars organized internally at [SONATEL](https://sonatel.sn/ "SONATEL"), the National Senegalese Telecom Operator, with the aim of promoting innovation and the use of emerging technologies.
 
 It is in this perspective that I animated a conference on **Artificial Intelligence (AI) and its applications in the world of Telecoms** covering:
 
