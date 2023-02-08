@@ -8,10 +8,8 @@ description: This is meta description
 links:
 - label: Paper
   link: https://aclanthology.org/2022.naacl-main.223/
-- label: Code
-  link: "#"
-- label: Source File
-  link: "#"
+- label: Github repo
+  link: https://github.com/masakhane-io/lafand-mt
 
 ---
 Recent advances in the pre-training of language models leverage large-scale datasets to create multilingual models. However, **low-resource languages are mostly left out in these datasets**. This is primarily because many widely spoken languages are not well represented on the web and therefore excluded from the large-scale crawls used to create datasets. Furthermore, **downstream users of these models are restricted to the selection of languages originally chosen for pre-training**.
