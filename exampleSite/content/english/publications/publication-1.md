@@ -1,5 +1,6 @@
 ---
-title: 'Feedback from a Google PhD Fellow: How to make a good application'
+title: A Few Thousand Translations Go a Long Way! Leveraging Pre-trained Models for
+  African News Translation
 date: 2020-03-14T15:40:24.000+06:00
 image: images/publications/pub1.jpg
 author: George Cushen
