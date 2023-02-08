@@ -44,8 +44,8 @@ expertise:
   expertise_item:
   - name: Natural Language Processing
     content: "<strong>Dialog Systems</strong>, NLU, Machine Translation, Language
-      Models, Transfer Learning<br> <strong>Information Retrieval</strong>, Semantic
-      Parsing, Intent Classification, NER "
+      Models, Cross Lingual Transfer Learning<br> <strong>Information Retrieval</strong>,
+      Semantic Parsing, Intent Classification, NER "
   - name: Research and Development
     content: "<strong>Functional Analysis</strong>, State of the Art, Experiments
       <br> <strong>Team Management</strong>, Technology Watch, Communication"
