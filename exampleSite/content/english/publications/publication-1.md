@@ -1,8 +1,8 @@
 ---
 title: A Few Thousand Translations Go a Long Way! Leveraging Pre-trained Models for
   African News Translation
-date: 2020-03-14T15:40:24.000+06:00
-image: images/publications/pub1.jpg
+date: 2023-02-08T11:05:24+00:00
+image: "/images/using-machine-learning-to-enable-the-translation-of-local-african-languages.png"
 author: Derguene Mbaye
 description: This is meta description
 links:
