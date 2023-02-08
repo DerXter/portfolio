@@ -8,7 +8,7 @@ description: 'MAFAND-MT: Machine Translation for African Languages'
 links:
 - label: Paper
   link: https://aclanthology.org/2022.naacl-main.223/
-- label: Github repo
+- label: Github
   link: https://github.com/masakhane-io/lafand-mt
 
 ---
@@ -19,4 +19,4 @@ This work investigates **how to optimally leverage existing pre-trained models t
 1. How can pre-trained models be used for languages not included in the initial pre-training?
 2. How can the resulting translation models effectively transfer to new domains?
 
-To answer these questions, **we create a new African news corpus covering 16 languages, of which eight languages are not part of any existing evaluation dataset.** We demonstrate that the most effective strategy for transferring both to additional languages and to additional domains is to fine-tune large pre-trained models on small quantities of high-quality translation data.
+To answer these questions, **we create a new African news corpus covering 16 languages, of which eight languages are not part of any existing evaluation dataset.** We demonstrate that **the most effective strategy for transferring both to additional languages and to additional domains is to fine-tune large pre-trained models on small quantities of high-quality translation data**.
