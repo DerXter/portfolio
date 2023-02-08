@@ -4,7 +4,7 @@ title: A Few Thousand Translations Go a Long Way! Leveraging Pre-trained Models 
 date: 2023-02-08T11:05:24+00:00
 image: "/images/using-machine-learning-to-enable-the-translation-of-local-african-languages.png"
 author: Derguene Mbaye
-description: This is meta description
+description: 'MAFAND-MT: Machine Translation for African Languages'
 links:
 - label: Paper
   link: https://aclanthology.org/2022.naacl-main.223/
