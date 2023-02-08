@@ -1,6 +1,5 @@
 ---
-title: 'Design of a Numbered Menu Chatbot on RASA: an efficient management of the
-  dialogue flow'
+title: MasakhaNER
 date: 2020-03-14T15:40:24.000+06:00
 image: images/publications/pub2.jpg
 author: George Cushen
