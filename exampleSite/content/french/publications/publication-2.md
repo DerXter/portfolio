@@ -1,5 +1,5 @@
 ---
-title: 'Retours d''experience d''un Google PhD Fellow: Comment faire une bonne candidature'
+title: MasakhaNER
 date: 2020-03-14T15:40:24.000+06:00
 image: images/publications/pub2.jpg
 author: George Cushen
