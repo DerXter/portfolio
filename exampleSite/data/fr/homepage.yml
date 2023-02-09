@@ -2,7 +2,8 @@
 banner:
   enable: true
   title: Hey, je suis Derguene **!**
-  subtitle: "Ingénieur de Recherche en TAL & Initiateur de Communauté \U0001F917"
+  subtitle: "Ingénieur de Recherche en TAL & Initiateur de Communauté \U0001F917 <br
+    /> **<i>Site en cours de construction...</i>**"
   social: true
 about:
   enable: true
