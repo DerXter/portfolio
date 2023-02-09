@@ -2,8 +2,8 @@
 banner:
   enable: true
   title: Hey, I’m Derguene **!**
-  subtitle: "NLP Research Engineer & Community Builder \U0001F917 <br /> **(website
-    under construction)**"
+  subtitle: "NLP Research Engineer & Community Builder \U0001F917 <br /> <i>**Website
+    under construction...**</i>"
   social: true
 about:
   enable: true
