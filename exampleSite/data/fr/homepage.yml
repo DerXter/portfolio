@@ -67,10 +67,10 @@ contact_form:
   enable: true
   title: Contactez moi
   contact_form_action: "#"
-  name_label: Your Name
-  email_label: Your Email
-  textarea_label: Your Message
-  button_label: Send Now
+  name_label: Votre nom
+  email_label: Votre Email
+  textarea_label: Votre Message
+  button_label: Envoyer
 contact_info:
   enable: true
   title: Entrer en contact
