@@ -78,7 +78,7 @@ contact_info:
     a message at <strong>contact[at]derguene[dot]sn</strong>.
   contact_item:
   - icon: ti-email
-    id: mbayederguene[at]hotmail[dot]fr
+    id: contact[at]derguene[dot]sn
   - icon: ti-mobile
     id: "+221 77 733 80 38"
   - icon: ti-location-pin
