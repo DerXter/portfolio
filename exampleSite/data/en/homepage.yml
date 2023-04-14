@@ -65,7 +65,7 @@ blog:
 contact_form:
   enable: true
   title: Contact Me
-  contact_form_action: "#"
+  contact_form_action: https://getform.io/f/82187c19-0f64-4aa7-9e8e-e63d77fb1440
   name_label: Your Name
   email_label: Your Email
   textarea_label: Your Message
