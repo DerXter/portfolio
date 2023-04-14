@@ -75,8 +75,8 @@ contact_info:
   enable: true
   title: Entrer en contact
   content: Parlez-moi de votre projet et de la manière dont je pourrais vous aider.
-    ou si vous cherchez <strong>Les Meilleurs profils Data Science</strong> pour votre
-    entreprise - envoyez-moi un message à l'adresse <strong>contact[at]derguene[dot]sn</strong>.
+    Ou si vous cherchez <strong>Les Meilleurs profils Data Science</strong> pour votre
+    entreprise - envoyez-moi un message à l'adresse mail ci-après.
   contact_item:
   - icon: ti-email
     id: contact[at]derguene[dot]sn
